@@ -1,0 +1,10 @@
+{
+  "name": "ts-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ericksonnascimento <erickson.nascimento@movile.com>",
+  "license": "MIT",
+  "dependencies": {
+    "git-commit-msg-linter": "^4.1.1"
+  }
+}
